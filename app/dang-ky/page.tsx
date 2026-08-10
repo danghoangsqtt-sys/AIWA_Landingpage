@@ -63,7 +63,7 @@ export default function RegistrationPage() {
       <section className="registration-shell">
         <div className="registration-copy">
           <span className="subpage-kicker">TRẢI NGHIỆM KHÔNG RỦI RO</span>
-          <h1>Nhận key AIWA<br/><em>miễn phí trong 15 ngày</em></h1>
+          <h1>Nhận key AIWA <em>miễn phí trong 15&nbsp;ngày</em></h1>
           <p>Điền thông tin để nhận thư cảm ơn, link tải bộ cài và được kết nối trực tiếp với đội ngũ tác giả qua Zalo.</p>
           <div className="registration-benefits">
             <span><b>01</b><i>Nhận link tải bộ cài qua email</i></span>
