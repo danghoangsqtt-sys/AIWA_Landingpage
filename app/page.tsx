@@ -339,10 +339,42 @@ export default function Home() {
       <section className="faq">
         <div><div className="section-kicker">CÂU HỎI THƯỜNG GẶP</div><h2>Bạn cần biết thêm?</h2><p>DHSystem sẵn sàng giải đáp trước khi bạn quyết định.</p></div>
         <div className="faq-list">
-          <details open><summary>Giá 999.000đ có phải trả phí hằng năm không?<span>+</span></summary><p>Không. Đây là mức giá mua một lần để sử dụng trọn đời, không có phí duy trì hằng năm.</p></details>
-          <details><summary>Tôi có được hỗ trợ cài đặt không?<span>+</span></summary><p>Có. DHSystem sẽ hướng dẫn và hỗ trợ cài đặt để bạn có thể bắt đầu sử dụng thuận tiện.</p></details>
-          <details><summary>Phần mềm in tặng kèm dùng để làm gì?<span>+</span></summary><p>Phần mềm giúp người dùng máy in một mặt thực hiện in hai mặt thủ công theo quy trình rõ ràng, hạn chế lật giấy sai chiều.</p></details>
-          <details><summary>Làm sao nhận key dùng thử miễn phí 15 ngày?<span>+</span></summary><p>Nhấn nút “Đăng ký nhận key”, điền họ tên, số điện thoại và email. Hệ thống gửi thư cảm ơn cùng link tải bộ cài, sau đó kết nối bạn với Zalo 0343019101 để nhận key và được hỗ trợ.</p></details>
+          <details open>
+            <summary>Giá 999.000đ có phải trả phí hằng năm không?<span>+</span></summary>
+            <p><b>Hoàn toàn không.</b> Đây là mức giá mua đứt <b>một lần duy nhất</b> để sở hữu bản quyền trọn đời.</p>
+            <ul>
+              <li>Không phát sinh phí gia hạn hằng tháng hay hằng năm.</li>
+              <li>Được cập nhật miễn phí các phiên bản sửa lỗi trong tương lai.</li>
+              <li>Được hỗ trợ chuyển đổi key sang máy tính khác (khi đổi máy mới).</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Tôi có được hỗ trợ cài đặt không?<span>+</span></summary>
+            <p><b>Có, chắc chắn rồi.</b> Đội ngũ DHSystem luôn sẵn sàng đồng hành cùng bạn:</p>
+            <ul>
+              <li>Hỗ trợ xử lý lỗi cài đặt từ xa trực tiếp qua UltraViewer hoặc Zalo.</li>
+              <li>Cung cấp tài liệu hướng dẫn và video trực quan từng bước.</li>
+              <li>Tư vấn cách tối ưu hoá quy trình soạn thảo văn bản của riêng bạn.</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Phần mềm in tặng kèm dùng để làm gì?<span>+</span></summary>
+            <p>Đây là <b>quà tặng đặc biệt</b> dành cho khách hàng sử dụng máy in một mặt. Phần mềm sẽ giúp bạn:</p>
+            <ul>
+              <li>Tự động chia tách trang chẵn / lẻ cực kỳ thông minh.</li>
+              <li>Hiển thị sơ đồ hướng dẫn cách lật mặt giấy sao cho không bao giờ bị ngược chiều.</li>
+              <li>Tiết kiệm tới 50% lượng giấy in và công sức đứng máy.</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Làm sao nhận key dùng thử miễn phí 15 ngày?<span>+</span></summary>
+            <p>Quy trình nhận key cực kỳ đơn giản qua 3 bước:</p>
+            <ol>
+              <li>Bấm nút <b>Đăng ký nhận key</b> và điền thông tin liên hệ cơ bản.</li>
+              <li>Kiểm tra email để tải <b>Bộ cài đặt AIWA</b> và xem trước hướng dẫn.</li>
+              <li>Hệ thống sẽ chuyển hướng bạn đến <b>Zalo 0343 019 101</b> để đội ngũ kỹ thuật cấp ngay Key kích hoạt.</li>
+            </ol>
+          </details>
         </div>
       </section>
 
