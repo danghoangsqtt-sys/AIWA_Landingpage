@@ -128,7 +128,9 @@ export default function Home() {
 
   return (
     <main>
-      <div className="announcement">Ưu đãi trải nghiệm · Nhận key AIWA dùng thử miễn phí 15 ngày qua Zalo</div>
+      <div className="announcement">
+        <span className="text-highlight">Ưu đãi</span> trải nghiệm · Nhận key AIWA dùng thử miễn phí <span className="text-highlight">15 ngày</span> qua <a href="https://zalo.me/0343019101" target="_blank" rel="noreferrer" className="zalo-link">Zalo ↗</a>
+      </div>
       <header className="site-header">
         <a className="brand brand-aiwa" href="#top" aria-label="AIWA by DHSystem - về đầu trang">
           <AiwaLogo compact />
