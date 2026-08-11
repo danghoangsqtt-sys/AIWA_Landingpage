@@ -1,4 +1,4 @@
-const driveUrl = "https://drive.google.com/drive/folders/1jhyq-QWw33Zqf9Gp6lpl_ZxcmfOTVVLF?usp=sharing";
+const driveUrl = "https://drive.google.com/drive/folders/150cE5mb_GnA9LtqiukGoEkY8QfJVA55q?usp=drive_link";
 const zaloUrl = "https://zalo.me/0343019101";
 const defaultLeadStatus = {
   freeKey: "Chờ cấp",
